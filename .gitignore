@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code / Editors
+.vscode/
+.idea/
+
+# Backup / temp files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Test / cache dirs
+.pytest_cache/
+.mypy_cache/
+coverage/
+htmlcov/
+
+# Ignore compiled binaries
+*.so
+*.dll
+*.exe
