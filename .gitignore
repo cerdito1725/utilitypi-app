@@ -40,7 +40,10 @@ htmlcov/
 *.so
 *.dll
 *.exe
-waveshare/
 lib/
-waveshare/
-lib/
+
+# Keep only Python & SVG files from waveshare; ignore everything else there
+waveshare/**            # ignore all under waveshare
+!waveshare/**/          # but keep directories so we can re-include files
+!waveshare/**/*.py      # keep python modules
+!waveshare/**/*.svg     # keep vector assets
