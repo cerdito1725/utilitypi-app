@@ -45,6 +45,8 @@ htmlcov/
 /lib/
 
 # But keep the Waveshare driver inside waveshare/lib
+!waveshare/solar/**
+!waveshare/weather_providers/**
 !waveshare/lib/
 !waveshare/lib/waveshare_epd/
 !waveshare/lib/waveshare_epd/**
