@@ -40,3 +40,7 @@ htmlcov/
 *.so
 *.dll
 *.exe
+waveshare/
+lib/
+waveshare/
+lib/
