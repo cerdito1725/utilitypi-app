@@ -1,69 +1,50 @@
-# -----------------------
-# Python bytecode / cache
+# Python bytecode
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.pdb
 
-# -----------------------
 # Virtual environments
 .venv/
-venv/
 env/
 ENV/
+venv/
 *.egg-info/
 pip-wheel-metadata/
 
-# -----------------------
 # Logs
 *.log
 
-# -----------------------
 # OS files
 .DS_Store
 Thumbs.db
 
-# -----------------------
-# Editors / IDEs
+# VS Code / Editors
 .vscode/
 .idea/
 
-# -----------------------
 # Backup / temp files
 *.bak
 *.swp
 *.swo
 *.tmp
 
-# -----------------------
-# Test / coverage
+# Test / cache dirs
 .pytest_cache/
 .mypy_cache/
 coverage/
 htmlcov/
 
-# -----------------------
-# Compiled binaries
+# Ignore compiled binaries
 *.so
 *.dll
 *.exe
 
-# -----------------------
-# Ignore library folder
-lib/
+# Ignore only the *top-level* lib directory
+/lib/
 
-# -----------------------
-# Waveshare rules
-# Ignore everything under waveshare...
-waveshare/**
-# ...but keep directories
-!waveshare/**/
-# ...and keep Python, SVG, and Shell scripts (root + subdirs)
-!waveshare/*.py
-!waveshare/*.svg
-!waveshare/*.sh
-!waveshare/**/*.py
-!waveshare/**/*.svg
-!waveshare/**/*.SVG
-!waveshare/**/*.sh
+# But keep the Waveshare driver inside waveshare/lib
+!waveshare/lib/
+!waveshare/lib/waveshare_epd/
+!waveshare/lib/waveshare_epd/**
