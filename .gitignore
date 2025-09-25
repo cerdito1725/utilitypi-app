@@ -44,10 +44,6 @@ htmlcov/
 # Ignore only the *top-level* lib directory
 /lib/
 
-# --- Waveshare rules ---
-# Ignore everything under waveshare by default
-waveshare/**
-
 # Re-include specific folders and their contents
 !waveshare/
 !waveshare/lib/

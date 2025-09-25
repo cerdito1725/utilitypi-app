@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="480"
+   width="800"
+   version="1.1"
+   id="svg3095"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="screen-template.5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview99"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.565"
+     inkscape:cx="354.3131"
+     inkscape:cy="239.9361"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3095" />
+  <defs
+     id="defs185" />
+  <rect
+     width="800"
+     height="480"
+     id="rect3855"
+     fill="white" />
+ <g
+     transform="scale(0.5)"
+     id="g6">
+    <use
+       x="19"
+       y="690"
+       href="icons/scattered_clouds.svg"
+       id="use4" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g10">
+    <use
+       x="198"
+       y="690"
+       href="icons/scattered_clouds.svg"
+       id="use8" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g14">
+    <use
+       x="377"
+       y="690"
+       href="icons/scattered_clouds.svg"
+       id="use12" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g18">
+    <use
+       x="556"
+       y="690"
+       href="icons/clear_sky_day.svg"
+       id="use16" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g22">
+    <use
+       x="735"
+       y="690"
+       href="icons/scattered_clouds.svg"
+       id="use20" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g26">
+    <use
+       x="914"
+       y="690"
+       href="icons/clear_sky_day.svg"
+       id="use24" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g30">
+    <use
+       x="1093"
+       y="690"
+       href="icons/clear_sky_day.svg"
+       id="use28" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g34">
+    <use
+       x="1272"
+       y="690"
+       href="icons/clear_sky_day.svg"
+       id="use32" />
+  </g>
+  <g
+     transform="scale(0.5)"
+     id="g38">
+    <use
+       x="1451"
+       y="690"
+       href="icons/clear_sky_day.svg"
+       id="use36" />
+  </g>
+  <text
+     x="40"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text40">1PM</text>
+  <text
+     x="40"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text42">16°C</text>
+  <text
+     x="40"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0%</text>
+  <text
+     x="40"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="130"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text46">2PM</text>
+  <text
+     x="130"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text48">16°C</text>
+  <text
+     x="130"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text50">0%</text>
+  <text
+     x="130"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="220"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text52">3PM</text>
+  <text
+     x="220"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text54">16°C</text>
+  <text
+     x="220"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text56">0%</text>
+  <text
+     x="220"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="310"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text58">4PM</text>
+  <text
+     x="310"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text60">16°C</text>
+  <text
+     x="310"
+     y="442"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text62">0%</text>
+  <text
+     x="310"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="400"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text64">5PM</text>
+  <text
+     x="400"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text66">15°C</text>
+  <text
+     x="400"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text68">0%</text>
+  <text
+     x="400"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="490"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text70">6PM</text>
+  <text
+     x="490"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text72">14°C</text>
+  <text
+     x="490"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text74">0%</text>
+  <text
+     x="490"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="580"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text76">7PM</text>
+  <text
+     x="580"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text78">12°C</text>
+  <text
+     x="580"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text80">0%</text>
+  <text
+     x="580"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="670"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text82">8PM</text>
+  <text
+     x="670"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text84">9°C</text>
+  <text
+     x="670"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text86">0%</text>
+  <text
+     x="670"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+  <text
+     x="760"
+     y="335"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text88">9PM</text>
+  <text
+     x="760"
+     y="415"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text90">7°C</text>
+  <text
+     x="760"
+     y="440"
+     font-size="20px"
+     style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text92">0%</text>
+  <text
+     x="760"
+     y="465"
+     font-size="17px"
+     style="font-size:17px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
+     id="text44">0.0mm</text>
+    <text x="70" y="35" style="font-size: 22px; text-anchor:middle;">CURRENT</text>
+    <text x="70" y="65" style="font-size: 22px; text-anchor:middle;">SOLAR</text>
+    <text x="70" y="105" style="font-size: 40px; text-anchor:middle;">2.9</text>
+    <text x="70" y="135" style="font-size: 22px; text-anchor:middle;">kW</text>
+
+    <text x="200" y="35" style="font-size: 22px; text-anchor:middle;">CURRENT</text>
+    <text x="200" y="65" style="font-size: 22px; text-anchor:middle;">USAGE</text>
+    <text x="200" y="105" style="font-size: 40px; text-anchor:middle;">0.5</text>
+    <text x="200" y="135" style="font-size: 22px; text-anchor:middle;">kW</text>
+
+    <text x="330" y="35" style="font-size: 22px; text-anchor:middle;">GRID</text>
+    <text x="330" y="65" style="font-size: 22px; text-anchor:middle;">USAGE</text>
+    <text x="330" y="105" style="font-size: 40px; text-anchor:middle;">2.5</text>
+    <text x="330" y="135" style="font-size: 22px; text-anchor:middle;">kW</text>
+
+    <text x="70" y="185" style="font-size: 22px; text-anchor:middle;">TODAY'S</text>
+    <text x="70" y="215" style="font-size: 22px; text-anchor:middle;">SOLAR</text>
+    <text x="70" y="255" style="font-size: 40px; text-anchor:middle;">6</text>
+    <text x="70" y="285" style="font-size: 22px; text-anchor:middle;">kWh</text>
+
+    <text x="200" y="185" style="font-size: 22px; text-anchor:middle;">TODAY'S</text>
+    <text x="200" y="215" style="font-size: 22px; text-anchor:middle;">IMPORT</text>
+    <text x="200" y="255" style="font-size: 40px; text-anchor:middle;">1</text>
+    <text x="200" y="285" style="font-size: 22px; text-anchor:middle;">kWh</text>
+
+    <text x="330" y="185" style="font-size: 22px; text-anchor:middle;">TODAY'S</text>
+    <text x="330" y="215" style="font-size: 22px; text-anchor:middle;">EXPORT</text>
+    <text x="330" y="255" style="font-size: 40px; text-anchor:middle;">1</text>
+    <text x="330" y="285" style="font-size: 22px; text-anchor:middle;">kWh</text>
+
+    <text x="480" y="185" style="font-size: 22px; text-anchor:middle;">BATTERY</text>
+    <text x="480" y="215" style="font-size: 22px; text-anchor:middle;">CHARGE</text>
+    <text x="480" y="255" style="font-size: 40px; text-anchor:middle;">0</text>
+    <text x="480" y="285" style="font-size: 22px; text-anchor:middle;">%</text>
+
+    <text x="610" y="185" style="font-size: 22px; text-anchor:middle;">WATER</text>
+    <text x="610" y="215" style="font-size: 22px; text-anchor:middle;">TEMP</text>
+    <text x="610" y="255" style="font-size: 40px; text-anchor:middle;">78</text>
+    <text x="610" y="285" style="font-size: 22px; text-anchor:middle;">&#176;C</text>
+
+    <text x="740" y="185" style="font-size: 22px; text-anchor:middle;">HOUSE</text>
+    <text x="740" y="215" style="font-size: 22px; text-anchor:middle;">TEMP</text>
+    <text x="740" y="255" style="font-size: 40px; text-anchor:middle;">25</text>
+    <text x="740" y="285" style="font-size: 22px; text-anchor:middle;">&#176;C</text>
+
+    <text x="500" y="60" style="font-size: 35px; text-anchor:middle;">Thu</text>
+    <text x="500" y="110" style="font-size: 35px; text-anchor:middle;">Sep 25</text>
+    <text x="700" y="90" style="font-size: 35px; text-anchor:middle;">12:35PM</text>
+  <rect
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.587994"
+     id="rect236"
+     width="800"
+     height="5"
+     x="0"
+     y="300" />
+  <rect
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.587994"
+     id="rect236-8"
+     width="800"
+     height="5"
+     x="3.9000101e-06"
+     y="150" />
+  <rect
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.360074"
+     id="rect236-3"
+     width="5"
+     height="300"
+     x="400"
+     y="-300"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.254611"
+     id="rect236-3-3"
+     width="5"
+     height="150"
+     x="600"
+     y="-150"
+     transform="scale(1,-1)" />
+</svg>

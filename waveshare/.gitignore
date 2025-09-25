@@ -1,0 +1,15 @@
+__pycache__
+*.__pycache__
+*.pyc
+screen-output*
+screen-custom-get.py
+env.sh
+*.log
+*.pickle
+credentials*
+*.json
+*.bin
+test.svg
+*.xml
+venv
+cache_
