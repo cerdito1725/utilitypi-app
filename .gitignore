@@ -54,3 +54,13 @@ waveshare/**
 !waveshare/lib/waveshare_epd/**
 !waveshare/solar/**
 !waveshare/weather_providers/**
+<<<<<<< HEAD
+=======
+!waveshare/lib/
+!waveshare/lib/waveshare_epd/
+!waveshare/lib/waveshare_epd/**
+
+__pycache__/
+*.pyc
+*.pyo
+>>>>>>> 54edb77 (Fix run.sh paths for new layout; ignore __pycache__)
