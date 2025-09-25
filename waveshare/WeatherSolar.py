@@ -230,8 +230,8 @@ def main():
 
     logging.info("Updating SVG")
 
-    template_svg_filename = f'/home/neal/scripts/waveshare/WeatherSolarTemplate.svg'
-    output_svg_filename = '/home/neal/scripts/waveshare/WeatherSolarOutput.svg'
+    template_svg_filename = f'/home/neal/apps/utility/waveshare/WeatherSolarTemplate.svg'
+    output_svg_filename = '/home/neal/apps/utility/waveshare/WeatherSolarOutput.svg'
     update_svg(template_svg_filename, output_svg_filename, output_dict)
 
 if __name__ == "__main__":

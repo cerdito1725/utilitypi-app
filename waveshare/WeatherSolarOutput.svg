@@ -59,7 +59,7 @@
     <use
        x="377"
        y="690"
-       href="icons/scattered_clouds.svg"
+       href="icons/clear_sky_day.svg"
        id="use12" />
   </g>
   <g
@@ -68,7 +68,7 @@
     <use
        x="556"
        y="690"
-       href="icons/clear_sky_day.svg"
+       href="icons/scattered_clouds.svg"
        id="use16" />
   </g>
   <g
@@ -77,7 +77,7 @@
     <use
        x="735"
        y="690"
-       href="icons/scattered_clouds.svg"
+       href="icons/clear_sky_day.svg"
        id="use20" />
   </g>
   <g
@@ -121,7 +121,7 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text40">1PM</text>
+     id="text40">2PM</text>
   <text
      x="40"
      y="415"
@@ -145,7 +145,7 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text46">2PM</text>
+     id="text46">3PM</text>
   <text
      x="130"
      y="415"
@@ -169,7 +169,7 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text52">3PM</text>
+     id="text52">4PM</text>
   <text
      x="220"
      y="415"
@@ -193,13 +193,13 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text58">4PM</text>
+     id="text58">5PM</text>
   <text
      x="310"
      y="415"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text60">16°C</text>
+     id="text60">15°C</text>
   <text
      x="310"
      y="442"
@@ -217,13 +217,13 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text64">5PM</text>
+     id="text64">6PM</text>
   <text
      x="400"
      y="415"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text66">15°C</text>
+     id="text66">14°C</text>
   <text
      x="400"
      y="440"
@@ -241,13 +241,13 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text70">6PM</text>
+     id="text70">7PM</text>
   <text
      x="490"
      y="415"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text72">14°C</text>
+     id="text72">12°C</text>
   <text
      x="490"
      y="440"
@@ -265,13 +265,13 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text76">7PM</text>
+     id="text76">8PM</text>
   <text
      x="580"
      y="415"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text78">12°C</text>
+     id="text78">9°C</text>
   <text
      x="580"
      y="440"
@@ -289,13 +289,13 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text82">8PM</text>
+     id="text82">9PM</text>
   <text
      x="670"
      y="415"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text84">9°C</text>
+     id="text84">7°C</text>
   <text
      x="670"
      y="440"
@@ -313,13 +313,13 @@
      y="335"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text88">9PM</text>
+     id="text88">10PM</text>
   <text
      x="760"
      y="415"
      font-size="20px"
      style="font-size:20px;line-height:0%;font-family:'Nimbus Sans L';text-anchor:middle"
-     id="text90">7°C</text>
+     id="text90">6°C</text>
   <text
      x="760"
      y="440"
@@ -334,22 +334,22 @@
      id="text44">0.0mm</text>
     <text x="70" y="35" style="font-size: 22px; text-anchor:middle;">CURRENT</text>
     <text x="70" y="65" style="font-size: 22px; text-anchor:middle;">SOLAR</text>
-    <text x="70" y="105" style="font-size: 40px; text-anchor:middle;">2.9</text>
+    <text x="70" y="105" style="font-size: 40px; text-anchor:middle;">0.8</text>
     <text x="70" y="135" style="font-size: 22px; text-anchor:middle;">kW</text>
 
     <text x="200" y="35" style="font-size: 22px; text-anchor:middle;">CURRENT</text>
     <text x="200" y="65" style="font-size: 22px; text-anchor:middle;">USAGE</text>
-    <text x="200" y="105" style="font-size: 40px; text-anchor:middle;">0.5</text>
+    <text x="200" y="105" style="font-size: 40px; text-anchor:middle;">0.4</text>
     <text x="200" y="135" style="font-size: 22px; text-anchor:middle;">kW</text>
 
     <text x="330" y="35" style="font-size: 22px; text-anchor:middle;">GRID</text>
     <text x="330" y="65" style="font-size: 22px; text-anchor:middle;">USAGE</text>
-    <text x="330" y="105" style="font-size: 40px; text-anchor:middle;">2.5</text>
+    <text x="330" y="105" style="font-size: 40px; text-anchor:middle;">0.4</text>
     <text x="330" y="135" style="font-size: 22px; text-anchor:middle;">kW</text>
 
     <text x="70" y="185" style="font-size: 22px; text-anchor:middle;">TODAY'S</text>
     <text x="70" y="215" style="font-size: 22px; text-anchor:middle;">SOLAR</text>
-    <text x="70" y="255" style="font-size: 40px; text-anchor:middle;">6</text>
+    <text x="70" y="255" style="font-size: 40px; text-anchor:middle;">8</text>
     <text x="70" y="285" style="font-size: 22px; text-anchor:middle;">kWh</text>
 
     <text x="200" y="185" style="font-size: 22px; text-anchor:middle;">TODAY'S</text>
@@ -359,7 +359,7 @@
 
     <text x="330" y="185" style="font-size: 22px; text-anchor:middle;">TODAY'S</text>
     <text x="330" y="215" style="font-size: 22px; text-anchor:middle;">EXPORT</text>
-    <text x="330" y="255" style="font-size: 40px; text-anchor:middle;">1</text>
+    <text x="330" y="255" style="font-size: 40px; text-anchor:middle;">2</text>
     <text x="330" y="285" style="font-size: 22px; text-anchor:middle;">kWh</text>
 
     <text x="480" y="185" style="font-size: 22px; text-anchor:middle;">BATTERY</text>
@@ -369,7 +369,7 @@
 
     <text x="610" y="185" style="font-size: 22px; text-anchor:middle;">WATER</text>
     <text x="610" y="215" style="font-size: 22px; text-anchor:middle;">TEMP</text>
-    <text x="610" y="255" style="font-size: 40px; text-anchor:middle;">78</text>
+    <text x="610" y="255" style="font-size: 40px; text-anchor:middle;">75</text>
     <text x="610" y="285" style="font-size: 22px; text-anchor:middle;">&#176;C</text>
 
     <text x="740" y="185" style="font-size: 22px; text-anchor:middle;">HOUSE</text>
@@ -379,7 +379,7 @@
 
     <text x="500" y="60" style="font-size: 35px; text-anchor:middle;">Thu</text>
     <text x="500" y="110" style="font-size: 35px; text-anchor:middle;">Sep 25</text>
-    <text x="700" y="90" style="font-size: 35px; text-anchor:middle;">12:35PM</text>
+    <text x="700" y="90" style="font-size: 35px; text-anchor:middle;">1:35PM</text>
   <rect
      style="fill:#000000;fill-rule:evenodd;stroke-width:0.587994"
      id="rect236"
