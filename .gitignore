@@ -64,3 +64,4 @@ __pycache__/
 *.pyc
 *.pyo
 >>>>>>> 54edb77 (Fix run.sh paths for new layout; ignore __pycache__)
+waveshare/env.sh
