@@ -9,8 +9,10 @@ defusedxml==0.7.1
 gpiozero==2.0.1
 idna==3.10
 lgpio==0.2.2.0
+lxml==6.0.2
 pillow==11.3.0
 pycparser==2.23
+pytz==2025.2
 requests==2.32.5
 RPi.GPIO==0.7.1
 spidev==3.8
