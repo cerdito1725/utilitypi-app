@@ -67,3 +67,6 @@ __pycache__/
 *.pyc
 *.pyo
 waveshare/env.sh
+# Runtime / generated files
+cache_weather.xml
+waveshare/WeatherSolarOutput.svg
