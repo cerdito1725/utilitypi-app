@@ -20,23 +20,32 @@ GPIO.setwarnings(False)
 
 RELAIS_1_GPIO = 14
 
-boostRate = 0.55
+boostRate = 0.50  # degrees C per minute
 targetTemp = 70.0
 
-# Finish hour passed as first arg, default to 6 (06:00)
-# Use 16 for 4pm run.
-finishHour = 6
+# Default finish time
+finish_hour = 6
+finish_minute = 0
+
 if len(sys.argv) > 1:
     try:
-        finishHour = int(sys.argv[1])
+        parts = sys.argv[1].split(":")
+        finish_hour = int(parts[0])
+        finish_minute = int(parts[1]) if len(parts) > 1 else 0
     except ValueError:
-        finishHour = 6
+        finish_hour = 6
+        finish_minute = 0
 
 GPIO.setup(RELAIS_1_GPIO, GPIO.OUT)
 
-def seconds_until_finish(finish_hour: int) -> int:
+def seconds_until_finish(finish_hour: int, finish_minute: int) -> int:
     now = datetime.now()
-    finish = now.replace(hour=finish_hour, minute=0, second=0, microsecond=0)
+    finish = now.replace(
+        hour=finish_hour,
+        minute=finish_minute,
+        second=0,
+        microsecond=0
+    )
     if now >= finish:
         finish = finish + timedelta(days=1)
     return int((finish - now).total_seconds())
@@ -48,17 +57,17 @@ try:
 
     if tempRaise > 0:
         boostTime = int((tempRaise / boostRate) * 60)  # seconds
-        windowSeconds = seconds_until_finish(finishHour)
+        windowSeconds = seconds_until_finish(finish_hour, finish_minute)
 
         # Wait so we finish at finishHour, but never wait negative
         boostWait = max(0, windowSeconds - boostTime)
 
         logging.info(
-            "Temp: %s C. Finish: %02d:00. Wait/Boost (mins): %s/%s",
-            tempNow, finishHour, round(boostWait / 60), round(boostTime / 60)
+            "Temp: %s C. Finish: %02d:%02d. Wait/Boost (mins): %s/%s",
+            tempNow, finish_hour, finish_minute, round(boostWait / 60), round(boostTime / 60)
         )
         print(
-            "Temp:", tempNow, "C. Finish:", f"{finishHour:02d}:00. "
+            "Temp:", tempNow, "C. Finish:", f"{finish_hour:02d}:{finish_minute:02d}. "
             "Wait/Boost (mins):", round(boostWait / 60), "/", round(boostTime / 60)
         )
 
@@ -74,7 +83,7 @@ try:
             boostTime2 = int((tempRaise2 / boostRate) * 60)
 
             # Clamp boost to remaining time until finish so we do not run past finish time
-            windowSeconds2 = seconds_until_finish(finishHour)
+            windowSeconds2 = seconds_until_finish(finish_hour, finish_minute)
             boostTime2 = min(boostTime2, windowSeconds2)
 
             GPIO.output(RELAIS_1_GPIO, GPIO.HIGH)
@@ -89,7 +98,7 @@ except Exception as e:
 finally:
     GPIO.output(RELAIS_1_GPIO, GPIO.LOW)
     try:
-        tempEnd = socketclient.socketTemp()
+        tempEnd = float(socketclient.socketTemp())
     except Exception:
         tempEnd = "?"
     logging.info("Ending boost at %s degrees", tempEnd)
